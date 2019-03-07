@@ -11,6 +11,11 @@ Icy was a lightweight dpkg package manager made by RiPDev, and later maintained 
 It is <b>open source</b> at https://github.com/slavikus/Icy
 
 
+#### Download:
+Original Icy.deb by RiPDev (Works up to iOS 5)
+https://github.com/SammyGuichelaar/RiPDev-Cydia-Packages/blob/master/icy-1.4.1-3749.deb
+
+
 ### Credits
 Designer: Max Rudberg
 http://www.maxrudberg.com
